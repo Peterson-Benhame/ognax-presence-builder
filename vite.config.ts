@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/peterson-benhame.github.io/ognax-presence-builder/',
+  base: '/peterson-benhame.github.io/',
 }));
